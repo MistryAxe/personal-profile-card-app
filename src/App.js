@@ -22,6 +22,12 @@ function App() {
             image="/images/image2.jpg"
             bio="Specializes in Node.js and database optimization. Loves solving complex problems and mentoring junior developers."
           />
+          <ProfileCard 
+            name="Maribe Seabela"
+            title="Cloud Engineer"
+            image="/images/image3.jpg"
+            bio="I help companies run their apps and services on the internet instead of physical computers. I make sure everything works smoothly, loads quickly, and stays online 24/7. Think of me like the person who builds and takes care of the digital space where websites and apps live. I enjoy solving problems and making things work better and faster."
+          />
         </div>
       </header>
     </div>

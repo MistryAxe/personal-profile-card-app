@@ -1,5 +1,4 @@
-// ProfileCard.js - Reusable profile card component for team members
-import React from 'react';
+
 import './ProfileCard.css';
 
 function ProfileCard(props) {
