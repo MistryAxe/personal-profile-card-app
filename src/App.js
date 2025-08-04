@@ -13,20 +13,20 @@ function App() {
           <ProfileCard 
             name="Evelyn Thema"
             title="Frontend Developer"
-            image="/images/image1.jpg"
-            bio="Passionate about creating intuitive user experiences with React and modern web technologies. Coffee enthusiast and open-source contributor."
+            image="/images/image5.jpg"
+            bio="I design and build the parts of websites and apps that people see and use like buttons, menus, and pages. My job is to make sure everything looks good, feels smooth, and works well on all devices. I love creating clean, user-friendly experiences that make technology easier to use."
           />
           <ProfileCard 
             name="Mahlodi Sbetha"
             title="Backend Engineer"
-            image="/images/image2.jpg"
-            bio="Specializes in Node.js and database optimization. Loves solving complex problems and mentoring junior developers."
+            image="/images/image9.jpg"
+            bio="I work behind the scenes to make sure apps and websites run smoothly. While others design how things look, I build the systems that power them like storing user data, handling logins, or processing payments. I enjoy solving problems and creating strong foundations that help apps work the right way, every time."
           />
           <ProfileCard 
             name="Maribe Seabela"
             title="Cloud Engineer"
-            image="/images/image3.jpg"
-            bio="I help companies run their apps and services on the internet instead of physical computers. I make sure everything works smoothly, loads quickly, and stays online 24/7. Think of me like the person who builds and takes care of the digital space where websites and apps live. I enjoy solving problems and making things work better and faster."
+            image="/images/image4.jpg"
+            bio="I help companies run their apps and services on the internet instead of physical computers. I make sure everything works smoothly, loads quickly, and stays online. Think of me like the person who builds and takes care of the digital space where websites and apps live. I enjoy solving problems and making things work better and faster."
           />
         </div>
       </header>
